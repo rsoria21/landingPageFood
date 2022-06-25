@@ -9,6 +9,7 @@ body {
   margin: 0;
   padding: 0;
   background: linear-gradient(180deg, #f4ecd9 50%, rgb(79, 140, 35) 50%);
+  background-repeat: no-repeat;
 }
 
 /* br {
@@ -42,6 +43,14 @@ body {
   font-size: 2rem;
   color: rgb(79, 140, 35);
   padding-right: 0.55rem;
+}
+
+.logo-title{
+  font-weight: 500;
+}
+
+button{
+  padding: 1.5rem 3.75rem;
 }
 
 .right-container {
